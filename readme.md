@@ -7,13 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anilkumar-k-30322322a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anilkumar-k-30322322a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anilkumar-k-30322322a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anilkumar-k-30322322a" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Leetcode Profile</h3>
 <p align="left">
-<a href="https://leetcode.com/anilkumar_007/" target="blank"><img align="center" src="![images](https://github.com/anilk4/anilk4/assets/89409899/33bfc973-67d3-41b5-bbb7-2be27d01cb38)
-" alt="https://www.linkedin.com/in/anilkumar-k-30322322a" height="30" width="40" /></a>
+<a href="https://leetcode.com/anilkumar_007/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
